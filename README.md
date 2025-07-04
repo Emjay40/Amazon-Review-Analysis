@@ -1,34 +1,35 @@
 # Amazon-Review-Analysis
 This is My Excel Project For Amazon Project Review Analysis.
-# Amazon Product Review Analysis
+# Amazon Product Review Analysis (Excel Dashboard)
 
-This Power BI dashboard analyzes customer review data and product pricing from Amazon to uncover patterns in customer behavior, discount impact, and product performance.
+This Excel-based dashboard analyzes customer review and product data from Amazon. The project explores review patterns, discount strategies, and product category performance using pivot tables, charts, and calculated insights.
 
 ---
 
-## 🔍 Key Insights
+## 📊 Key Insights
 
-- 📦 Review counts across different product categories
-- ⭐ Average rating per product category
-- 💰 Price ranges and their effect on reviews
-- 🎯 Discount percentage impact on customer ratings
-- 📊 Review distribution by product type and sentiment
+- ⭐ Average product ratings by category
+- 💬 Review count and sentiment distribution
+- 💸 Discounted prices vs original prices
+- 🛒 Product availability across multiple categories
+- 📈 Trend analysis using pivot charts
 
 ---
 
 ## 📁 Files Included
 
-- `Amazon_Review_Analysis.pbix` — Raw Power BI dashboard file
-- `amazon_dashboard_screenshot.png` — Visual preview of the dashboard
+- `Amazon_Review_Analysis.xlsx` — Excel dashboard and pivot tables
+- `amazon_dashboard_screenshot.png` — Visual snapshot of the dashboard (optional)
 
 ---
 
 ## 🛠 Tools Used
 
-- Power BI
-- Excel (for data cleaning and transformation)
-- DAX
-- Power Query
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Conditional Formatting  
+- Formulas (e.g. `AVERAGEIFS`, `SUMIFS`, `COUNTIFS`)
 
 ---
 
@@ -36,4 +37,10 @@ This Power BI dashboard analyzes customer review data and product pricing from A
 
 **Emjay Moji**  
 July 2025
+
+
+
+
+
+
 
